@@ -1,3 +1,6 @@
+# Project description
+This is an application for browsing popular movies, display a detail page of a selected movie/tv series and play a short movie trailer
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
